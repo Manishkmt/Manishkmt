@@ -1,5 +1,5 @@
 # 💫 About Me:
-||2nd - Year - B. Tech Engineering From Computer Science <br>||proficient in C| C++| HTML| CSS| JS| SQL|<br>|| Problem Solving||<br>
+||3nd - Year - B. Tech Engineering From Computer Science <br>||proficient in C| C++| HTML| CSS| JS| SQL|<br>|| Problem Solving||<br>
 
 
 ## 🌐 Socials:
