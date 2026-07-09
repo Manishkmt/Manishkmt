@@ -1,4 +1,4 @@
-# 💫 About Me:-
+# 💫 About Me
 ||3rd - Year - B.Tech. Engineering From Computer Science <br>||proficient in C| C++| Python with Numpy| ||HTML| CSS| JavaScript|| SQL|<br>|| Problem Solving||<br>
 
 
