@@ -2,7 +2,7 @@
 ||3rd - Year - B.Tech. Engineering From Computer Science <br>||proficient in C| C++| Python with Numpy|| HTML| CSS| JavaScript|| SQL|<br>|| Problem Solving ||<br>
 
 
-## 🌐 Socials:
+## 🌐 Socials:-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._manish_._kmt_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manish-kumawat-0b3514320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishkmt211@gmail.com) 
 
 # 💻 Tech Stack:
